@@ -1,0 +1,2 @@
+This is file3.
+I am trying to showcase how merge conflicts can be resolved in git.
